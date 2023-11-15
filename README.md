@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este é um projeto de formulário de autenticação (login/registro) desenvolvido em React, utilizando conceitos de design responsivo. Aqui estão alguns pontos-chave do código:
+Este é um projeto de formulário de autenticação (login/registro) desenvolvido em React. Aqui estão alguns pontos-chave do código:
 
 Hooks:
 O hook useState é usado para gerenciar o estado da aplicação, permitindo que a interface do usuário responda às interações do usuário, como alternar entre as visualizações de login e registro.
