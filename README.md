@@ -41,7 +41,7 @@ git clone https://github.com/ConradoCapistrano/formulario-simples
 ```
 
 ### Acessar o Site do Projeto :
-[https://to-do-list-conrado-capistrano.netlify.app/]
+[https://formulario-simples-conrado-capistrano.netlify.app/]
 
 # Creator / Autor
 
